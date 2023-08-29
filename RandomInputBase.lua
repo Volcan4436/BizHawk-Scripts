@@ -1,5 +1,5 @@
 -- List of possible inputs
-local inputs = { "Up", "Down", "Left", "Right", "A", "B" }
+local inputs = { "Up", "Down", "Left", "Right", "A", "B", "Start", "Select" }
 
 -- Function to send a random input
 local function sendRandomInput()
